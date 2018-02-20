@@ -1,0 +1,6 @@
+<div class="input-group mb-3 search">
+  <input #address (keyup.enter)="searchProperty(address.value)" type="text" class="form-control" placeholder="Search for an address" aria-label="Address" aria-describedby="basic-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-outline-secondary" type="button" (click)="searchProperty(address.value)"><fa name="search"></fa></button>
+  </div>
+</div>

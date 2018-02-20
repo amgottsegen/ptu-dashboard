@@ -1,0 +1,3 @@
+{
+[   {     'address': "4120 Powelton Ave",     'evictions': "0",     'predicted': "0",     'violations': "1",     'permits':"2"   },   {     'address': "4140 Powelton Ave",     'evictions': "0",     'predicted': "0",     'violations': "9",     'permits':"2"   },   {     'address': "4160 Powelton Ave",     'evictions': "1",     'predicted': "0",     'violations': "1",     'permits':"0"   } ]
+}

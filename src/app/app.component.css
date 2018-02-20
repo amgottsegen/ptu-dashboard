@@ -1,0 +1,23 @@
+:host {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+
+body {
+    margin: 0;
+}
+
+#fixed-header {
+    background-color: Black;
+    height: 75px;
+    color: white;
+}
+
+.fluid-banner {
+    height: 600px;
+    height: -webkit-calc(100vh - 75px);
+    height: calc(100vh - 75px);
+}
